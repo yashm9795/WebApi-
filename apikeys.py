@@ -1,1 +1,0 @@
-TMDB_KEY="7501e3ab4ad65ae81ad0b0dd10b1813d"
